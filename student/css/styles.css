@@ -1,0 +1,16 @@
+.form-group{
+    padding: 8px;
+    position: relative;
+}
+.form-group .fa{
+    position: absolute;
+    top: 50%;
+    right: 8%;
+    display: none;
+}
+.fa-times{
+    color: red;
+}
+.fa-check{
+    color: green;
+}
